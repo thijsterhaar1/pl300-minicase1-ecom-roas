@@ -60,9 +60,10 @@ Which channels/campaigns and product categories drive **Revenue** & **Gross Marg
 - Weekly margin peaks mid-period, suggesting a seasonal/promo effect.
 
 ## 🖼️ Screenshots
-![Applied Steps](images/01_powerquery_applied_steps.png)  
-![DAX (ROAS or WoW)](images/02_dax_roas_formula.png)  
-![Dashboard](images/03_dashboard_overview.png)
+| ✅ Power Query Applied Steps | ![Power Query](screenshots/01_powerquery_applied_steps.png) |
+| ✅ DAX ROAS Formula | ![ROAS Formula](screenshots/02a_dax_roas_formula.png) |
+| ✅ DAX Revenue WoW Formula | ![Revenue WoW](screenshots/02b_dax_revenue_wow_formula.png) |
+| ✅ Final Dashboard | ![Dashboard Overview](screenshots/03_dashboard_overview.png) |
 
 ## ▶️ How to open
 - Open `minicase1_ecom_roi.pbix` in **Power BI Desktop (2024+)**.  
@@ -71,7 +72,5 @@ Which channels/campaigns and product categories drive **Revenue** & **Gross Marg
 ---
 
 **Tools:** Power BI Desktop, Power Query, DAX  
-**Author:** Thijs (2025) • Practice for **Microsoft PL-300**
+**Author:** Thijs ter Haar (2025) • Practice for **Microsoft PL-300**
 
-*Korte samenvatting (NL):*  
-In dit Power BI-project toon ik data cleaning (Power Query), DAX-measures (Revenue, Margin, ROAS) en een dashboard met trends per week en performance per kanaal. Dit project gebruik ik als portfolio-case binnen mijn PL-300 traject.
