@@ -60,10 +60,10 @@ Which channels/campaigns and product categories drive **Revenue** & **Gross Marg
 - Weekly margin peaks mid-period, suggesting a seasonal/promo effect.
 
 ## 🖼️ Screenshots
-| ✅ Power Query Applied Steps | ![Power Query](screenshots/01_powerquery_applied_steps.png) |
-| ✅ DAX ROAS Formula | ![ROAS Formula](screenshots/02a_dax_roas_formula.png) |
-| ✅ DAX Revenue WoW Formula | ![Revenue WoW](screenshots/02b_dax_revenue_wow_formula.png) |
-| ✅ Final Dashboard | ![Dashboard Overview](screenshots/03_dashboard_overview.png) |
+- ✅ Power Query Applied Steps (see `/screenshots` folder)
+- ✅ DAX ROAS Formula (see `/screenshots` folder)
+- ✅ DAX Revenue WoW Formula (see `/screenshots` folder)
+- ✅ Final Dashboard (see `/screenshots` folder)
 
 ## ▶️ How to open
 - Open `minicase1_ecom_roi.pbix` in **Power BI Desktop (2024+)**.  
